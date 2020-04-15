@@ -324,8 +324,8 @@
 * [CodeShow](https://www.youtube.com/CodeShowBR) - Canal sobre Python e Rust
 * [Fabio Akita](https://www.youtube.com/user/AkitaOnRails) - Canal sobre tecnologia e desenvolvimento
 * [Diolinux](https://www.youtube.com/user/diolinux) - Canal sobre o mundo Unix e outras tecnologias
-* [Papo Binário](https://www.youtube.com/channel/UCuQ8zW9VmVyml7KytSqJDzg/featured) - Canal de TI com entrevistas e treinamentos.
-* [Bóson Treinamentos](https://www.youtube.com/user/bosontreinamentos/featured) - Cursos de programação, redes, banco de dados, eletrônica de forma gratuita.
+* [Papo Binário](https://www.youtube.com/channel/UCuQ8zW9VmVyml7KytSqJDzg/featured) - Canal de TI com entrevistas e treinamentos
+* [Bóson Treinamentos](https://www.youtube.com/user/bosontreinamentos/featured) - Cursos de programação, redes, banco de dados, eletrônica de forma gratuita
 
 ## 🎙 Podcasts
 * [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP
